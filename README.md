@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm swati jain</h1>
 <h3 align="center">Hey there! 👋 I'm a 3rd-year Computer Science student currently on an epic quest to unravel the mysteries of Data Science. My GitHub's a bit like my digital playground right now—mostly learning, experimenting, and getting ready to dive headfirst into some awesome projects. Super keen on jumping into open-source contributions once I've sharpened my skills! Come say hi!</h3>
+<p align="right" alt="Coding" ><img src="https://64.media.tumblr.com/3e59b1ee1a26635ed6e4f0a88d3a550c/tumblr_oxrgojARLL1r5mt4oo1_500.gif" alt="Description of GIF" width="400"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-stars&label=Profile%20views&color=0e75b6&style=flat" alt="swati-stars" /> </p>
-<p align="right"><img src="https://64.media.tumblr.com/3e59b1ee1a26635ed6e4f0a88d3a550c/tumblr_oxrgojARLL1r5mt4oo1_500.gif" alt="Description of GIF" width="150"/></p>
 
 # Hi 👋, I'm Swati Jain
 ### Hey there! 👋 I'm a 3rd-year Computer Science student currently on an epic quest to unravel the mysteries of Data Science. My GitHub's a bit like my digital playground right now—mostly learning, experimenting, and getting ready to dive headfirst into some awesome projects. Super keen on jumping into open-source contributions once I've sharpened my skills! Come say hi!
