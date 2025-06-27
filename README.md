@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm swati jain</h1>
 <h3 align="center">Hey there! 👋 I'm a 3rd-year Computer Science student currently on an epic quest to unravel the mysteries of Data Science. My GitHub's a bit like my digital playground right now—mostly learning, experimenting, and getting ready to dive headfirst into some awesome projects. Super keen on jumping into open-source contributions once I've sharpened my skills! Come say hi!</h3>
-<img align="right" alt="Coding" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcczeS3iiVXJaD8Gw2jvr54yqWTH-yrFgIxw&s.gif" >
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/harshav1989/harshav1989/main/github.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-stars&label=Profile%20views&color=0e75b6&style=flat" alt="swati-stars" /> </p>
 
